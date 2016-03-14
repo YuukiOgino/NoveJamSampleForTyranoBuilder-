@@ -1,4 +1,4 @@
-ノベじゃむ甲子園　春　Unity＋宴でノベルゲームを作る場合のサンプルプロジェクトです。 
+ノベじゃむ甲子園　春　TyranoBuilderでノベルゲームを作る場合のサンプルプロジェクトです。 
 サンプルの起動にはTyranoBuilderが必須です。
 
 © Unity Technologies Japan/UCL
