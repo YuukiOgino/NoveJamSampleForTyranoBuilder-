@@ -1,3 +1,12 @@
+ノベじゃむ甲子園　春　Unity＋宴でノベルゲームを作る場合のサンプルプロジェクトです。 
+サンプルの起動にはTyranoBuilderが必須です。
+
+© Unity Technologies Japan/UCL
+
+以下、ティラノスクリプトのreadmeです。
+
+——————————————————————————————————————————————————————
+
 TyranoScript｜ティラノスクリプト　Ver3.00（C）ShikemokuMK
 http://tyrano.jp
 
